@@ -14,6 +14,6 @@ Sou um programador junior, tenho 14 anos.
 ---
 
 ## Mais sobre mim
-- Eu passo meu tempo a criar scripts para Roblox
+- Eu passo meu tempo a criar scripts para Roblox, criar projetos Web.
 - Curto jogar e programar.
 
