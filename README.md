@@ -14,8 +14,6 @@ Sou um programador iniciante, tenho 14 anos.
 ---
 
 ## Mais sobre mim
-
-- Estou aprendendo hacking ético e engenharia reversa.  
 - Eu passo meu tempo a criar scripts para Roblox
 - Curto jogar e programar.
 
