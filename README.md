@@ -11,9 +11,4 @@ Sou um programador junior, tenho 14 anos.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
-## Mais sobre mim
-- Eu passo meu tempo a criar scripts para Roblox, criar projetos Web.
-- Curto jogar e programar.
 
