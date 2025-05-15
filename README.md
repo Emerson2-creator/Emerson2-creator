@@ -1,6 +1,6 @@
 # Olá, eu sou o Emerson 👋
 
-Sou um programador iniciante, tenho 14 anos.
+Sou um programador junior, tenho 14 anos.
 
 ## Linguagens que eu uso
 
