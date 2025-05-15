@@ -1,7 +1,7 @@
 # Olá, eu sou o Emerson 👋
 
-Sou um programador iniciante focado em aprender Lua, C#, HTML, CSS, JavaScript, Python e Bash.  
-Atualmente moro na França e estudo programação e hacking ético.
+Sou um programador iniciante focado em aprender Lua, C#, HTML, CSS, JavaScript, e Bash.  
+Atualmente moro na França.
 
 ## Linguagens que eu uso
 
@@ -17,9 +17,6 @@ Atualmente moro na França e estudo programação e hacking ético.
 ## Mais sobre mim
 
 - Estou aprendendo hacking ético e engenharia reversa.  
-- Amo criar scripts para Roblox em Lua.  
+- Eu passo meu tempo a criar scripts para Roblox
 - Curto jogar e programar.
 
----
-
-Se quiser, posso te ajudar a criar esse README completo e personalizado, incluindo até seu perfil bilíngue. Quer que eu faça um modelo para você?
