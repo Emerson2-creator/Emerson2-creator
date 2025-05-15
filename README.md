@@ -1,7 +1,6 @@
 # Olá, eu sou o Emerson 👋
 
-Sou um programador iniciante focado em aprender Lua, C#, HTML, CSS, JavaScript, e Bash.  
-Atualmente moro na França.
+Sou um programador iniciante, tenho 14 anos.
 
 ## Linguagens que eu uso
 
